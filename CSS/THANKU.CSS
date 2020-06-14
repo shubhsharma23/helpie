@@ -1,0 +1,16 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.thanku{
+    position:absolute;
+    top:0%;
+    left:0%;
+    height:60%;
+    width:80%;
+}
+.home{
+    position:absolute;
+    top:0%;
+    left:0%;
+}
